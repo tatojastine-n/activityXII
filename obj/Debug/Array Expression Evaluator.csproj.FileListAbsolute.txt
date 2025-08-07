@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Array Expression Evaluator\bin\Debug\Array Expression Evaluator.exe.config
+C:\Users\HP\source\repos\Array Expression Evaluator\bin\Debug\Array Expression Evaluator.exe
+C:\Users\HP\source\repos\Array Expression Evaluator\bin\Debug\Array Expression Evaluator.pdb
+C:\Users\HP\source\repos\Array Expression Evaluator\obj\Debug\Array Expression Evaluator.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Array Expression Evaluator\obj\Debug\Array Expression Evaluator.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Array Expression Evaluator\obj\Debug\Array Expression Evaluator.exe
+C:\Users\HP\source\repos\Array Expression Evaluator\obj\Debug\Array Expression Evaluator.pdb
